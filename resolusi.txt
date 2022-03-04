@@ -1,3 +1,4 @@
 RESOLUSI :
 1. Konsisten mengembangkan pengetahuan pemrogrman php codeigniter
 2. Belajar mengenai bahasa pemrograman asp .net core
+3. belajar mengenai bahasa pemrograman android
